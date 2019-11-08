@@ -2,7 +2,7 @@
 
 ## 目录结构
 
-@王鹏：参考官方文档：https://angular.cn/guide/file-structure。至于如何组织模块，也可以看下文档的 基本原理>架构>模块 部分。
+@王鹏老师：参考官方文档：[工作区和项目文件结构](https://angular.cn/guide/file-structure)。至于如何组织模块，也可以看下文档的 基本原理>架构>模块 部分。
 
 公共的模块可以放在一个公共的文件夹内（比如 common、shared）。
 
