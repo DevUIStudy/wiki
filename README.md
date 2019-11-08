@@ -4,10 +4,10 @@ DevUI小组公共的知识库。
 
 ## 目录
 
-* [CSS](https://github.com/DevUIStudy/wiki/blob/master/CSS.md)
-* [Angular](https://github.com/DevUIStudy/wiki/blob/master/Angular.md)
-* [DevUI](https://github.com/DevUIStudy/wiki/blob/master/DevUI.md)
-* [Developer](https://github.com/DevUIStudy/wiki/blob/master/Developer.md)
+* [CSS](https://github.com/DevUIStudy/wiki/blob/master/docs/CSS.md)
+* [Angular](https://github.com/DevUIStudy/wiki/blob/master/docs/Angular.md)
+* [DevUI](https://github.com/DevUIStudy/wiki/blob/master/docs/DevUI.md)
+* [Developer](https://github.com/DevUIStudy/wiki/blob/master/docs/Developer.md)
 
 ## 公开资料
 
