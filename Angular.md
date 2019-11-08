@@ -1,5 +1,9 @@
 # Angular
 
+## 快速上手
+
+[Angular 入门：你的第一个应用](https://angular.cn/start) 挺好的，完成前两章就有了完成个人学习项目的基础了。
+
 ## 目录结构
 
 @王鹏老师：参考官方文档：[工作区和项目文件结构](https://angular.cn/guide/file-structure)。至于如何组织模块，也可以看下文档的 基本原理>架构>模块 部分。
