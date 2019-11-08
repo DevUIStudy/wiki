@@ -26,3 +26,7 @@
 
 * [angular--图片路径](https://blog.csdn.net/weixin_42429288/article/details/96484668)
 
+## 路由与导航
+
+推荐阅读官方文档 [路由与导航](https://angular.cn/guide/router#routing--navigation) ，从“基础知识”看到“里程碑2:路由模块“就足够完成个人学习项目了。如果您在新建angular项目的时候配置了路由，那路由模块就是一开始就有了。如果不是的话，可以不用模块化，只是模块化会更整洁。
+
