@@ -4,6 +4,26 @@
 
 [Angular 入门：你的第一个应用](https://angular.cn/start) 挺好的，完成前两章就有了完成个人学习项目的基础了。
 
+## Angular CLI 
+
+### 创建项目
+
+创建方法是简单的：
+
+```
+ng new project-name
+```
+
+坑的地方在于，在 Windows 里， git bash 会跳过配置项引导，给你选择一个默认配置，而使用命令提示符窗口则不会有这个问题。 —— xun哥
+
+### 创建组件
+
+在 Angular 的入门教程里，是使用 Angular Files 插件来新建一个组件。
+
+也可以在命令行里[使用 Angular CLI (ng generate)创建组件、服务、类、路由、指令、管道](http://www.nbsite.cn/qdjs/152)。
+
+有一件奇怪的事情是，有人用 Angular Files 新建的组件的样式表是 css ，而他的项目配置的是 scss ，用 ng generate 则是正确的 scss 。
+
 ## 目录结构
 
 @王鹏老师：参考官方文档：[工作区和项目文件结构](https://angular.cn/guide/file-structure)。至于如何组织模块，也可以看下文档的 基本原理>架构>模块 部分。
