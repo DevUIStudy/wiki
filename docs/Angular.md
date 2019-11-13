@@ -19,11 +19,11 @@ ng new project-name
 ### 创建组件
 
 在 Angular 的入门教程里，是使用 Angular Files 插件来新建一个组件。
+注: 要达到angualr右键演示的效果,需要安装插件,即**Anguar Files**
 
 也可以在命令行里[使用 Angular CLI (ng generate)创建组件、服务、类、路由、指令、管道](http://www.nbsite.cn/qdjs/152)。
 
 有一件奇怪的事情是，有人用 Angular Files 新建的组件的样式表是 css ，而他的项目配置的是 scss ，用 ng generate 则是正确的 scss 。
-
 ## 目录结构
 
 @王鹏老师：参考官方文档：[工作区和项目文件结构](https://angular.cn/guide/file-structure)。至于如何组织模块，也可以看下文档的 基本原理>架构>模块 部分。
